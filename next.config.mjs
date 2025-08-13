@@ -2,9 +2,9 @@
 const nextConfig = {
   reactStrictMode: true,
   output: 'export',
-  basePath: '/koneko.github.io',
-  assetPrefix: '/koneko.github.io/', 
-  distDir: 'docs',
+  basePath: '',       
+  assetPrefix: '',    
+  distDir: 'docs',    
 };
 
 export default nextConfig;
